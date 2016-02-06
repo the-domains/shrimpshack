@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ShrimpShack]]></title>
-        <description><![CDATA[ShrimpShack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Shrimp Shack savory broth spice pack]]></title>
+        <description><![CDATA[Shrimp Shack savory broth spice pack]]></description>
+        <link>https://thegrid.ai/shrimpshack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 22:39:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 22:40:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shrimpshack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shrimp Shack savory broth spice pack ]]></title>
-            <description><![CDATA[<article><h1>Shrimp Shack savory broth spice pack </h1><p>Shrimp Shack savory broth spice pack</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ca77e799e217f5aeb0e01d15fad4a97c4bde08.jpg"></article>]]></description>
-            <link>undefinedshrimp-shack-savory-broth-spice-pack/index.html</link>
+            <description><![CDATA[<article><h1>Shrimp Shack savory broth spice pack </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ca77e799e217f5aeb0e01d15fad4a97c4bde08.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shrimpshack/shrimp-shack-savory-broth-spice-pack/index.html</link>
             <guid isPermaLink="false">f87e52a1-8a92-494e-9493-9968064f61d4</guid>
-            <pubDate>Sat, 06 Feb 2016 22:38:47 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 22:40:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
