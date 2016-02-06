@@ -1,0 +1,28 @@
+name: ShrimpShack
+favicon: null
+layout_spectrum: 0.05711859907023609
+typography_spectrum: 0.7958059315569699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5163078117184341
+  lightness: 0.5057529064361006
+  saturation: 0.7605490856803954
+  rhythmicContrast: 0.5583015440497547
+purpose: []
